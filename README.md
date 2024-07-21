@@ -1,5 +1,5 @@
 # RxJs-Simple-Login-System
-This project was made following a youtube course (https://www.youtube.com/watch?v=vcfZ0EQpYTA) about RxJs, and is a simple application of the RxJs library. The projec is a smple register page, taht makes use of the RxJs Action, Effects and Reducers to perform the register process, passing data to the https://api.realworld.io/api to create the profile.
+This project was made following a youtube course (https://www.youtube.com/watch?v=vcfZ0EQpYTA) about RxJs, and is a simple application of the RxJs library. The projec is a smple register page, that makes use of the RxJs Action, Effects and Reducers cycle to perform the register process, passing data to the https://api.realworld.io/api to create the profile.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.0.
 
